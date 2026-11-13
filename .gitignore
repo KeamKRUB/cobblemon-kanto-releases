@@ -1,0 +1,6 @@
+out/
+auth/
+*.exe
+*.part
+*.tmp
+__pycache__/
